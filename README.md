@@ -1,9 +1,16 @@
-<img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="100%" ><br>
+<img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="90%" ><br>
 <h2 align="left">Hello, Myself Raja</h2>
 <p align="left" > I'm a seasoned DevOps engineer with a passion for automating everything. I specialize in creating scalable and reliable infrastructure, streamlining deployment processes, and implementing continuous integration and delivery pipelines.
 My expertise covers a wide range of tools and technologies, including AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform, and more. I enjoy working with complex systems and finding elegant solutions to challenging problems. In my free time, I love to experiment with the latest DevOps tools and methodologies, and I believe in the power of collaboration and community, and I'm always looking for new ways to optimize workflows and utilize my knowledge.
 </p>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ezm0fn0fag604ku15f2pmpqlndnabqi2nzvhersi&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+## ⚡ Updates
+
+- 🌱 I’m currently preparing for Kubernates certification<br/>
+- 🤔 I’m looking for help for creating new Devops projects<br/>
+- 💬 Ask me about Automation and DevOps!<br/>
+- 📫 shoot me a mail: Email: prasadr731@gmail.com<br/>
 
 ## ⚡ Domains
 - Devops
