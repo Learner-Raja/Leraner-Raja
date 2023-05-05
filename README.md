@@ -9,8 +9,8 @@ My expertise covers a wide range of tools and technologies, including AWS, Docke
 
 - 🌱 I’m currently preparing for Kubernates certification<br/>
 - 🤔 I’m looking for help for creating new Devops projects<br/>
-- 💬 Ask me about Automation and DevOps!<br/>
-- 📫 shoot me a mail: Email: prasadr731@gmail.com<br/>
+- 💬 Ask me about CI-CD Automation and DevOps!<br/>
+- 📫 shoot me mail: prasadr731@gmail.com<br/>
 
 ## ⚡ Domains
 - Devops
