@@ -1,4 +1,4 @@
-<img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="100%" ><br>
+[![MasterHead] (https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif)] (https://rishavchanda.io)
 
 <h2 align="left">Hello, Myself Raja</h2>
 <p align="left" > I'm a seasoned DevOps engineer with a passion for automating everything. I specialize in creating scalable and reliable infrastructure, streamlining deployment processes, and implementing continuous integration and delivery pipelines.
