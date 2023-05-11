@@ -1,5 +1,5 @@
 <img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="100%" height="400"><br>
-<h2 align="left">Hello 👋, Myself Raja</h2>
+<h2 align="left">Hello 👋, Im Raja</h2>
 <p align="left" > I'm a seasoned DevOps engineer with a passion for automating everything. I specialize in creating scalable and reliable infrastructure, streamlining deployment processes, and implementing continuous integration and delivery pipelines.
 My expertise covers a wide range of tools and technologies, including AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform, and more. I enjoy working with complex systems and finding elegant solutions to challenging problems. In my free time, I love to experiment with the latest DevOps tools and methodologies, and I believe in the power of collaboration and community, and I'm always looking for new ways to optimize workflows and utilize my knowledge.
 </p>
