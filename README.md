@@ -1,6 +1,6 @@
 <img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="100%" height="400"><br>
 <h2 align="left">hello, me rajaprasad 👋</h2>
-<p align="left" > I'm a seasoned DevOps engineer from **India** with a passion for automating software deployment. I specialize in creating scalable and reliable infrastructure, streamlining deployment processes, and implementing continuous integration and delivery pipelines.
+<p align="left" > I'm a seasoned DevOps engineer from India with a passion for automating software deployment. I specialize in creating scalable and reliable infrastructure, streamlining deployment processes, and implementing continuous integration and delivery pipelines.
 My expertise covers a wide range of Devops tools and technologies, including AWS Cloud, Docker, Kubernetes, Jenkins, Ansible, Terraform, and more. I love to experiment with the latest DevOps tools and methodologies, and I believe in the power of collaboration and community, and I'm always looking for new ways to optimize Software development workflows and utilize my knowledge and Skills.
 </p>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ezm0fn0fag604ku15f2pmpqlndnabqi2nzvhersi&ep=v1_gifs_search&rid=giphy.gif&ct=g">
