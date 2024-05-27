@@ -1,5 +1,5 @@
 <img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="100%" height="400"><br>
-<h2 align="left">hello, me rajaprasad 👋</h2>
+<h2 align="left">hi, me rajaprasad 👋</h2>
 <p align="left" > I'm a seasoned DevOps engineer from India with a passion for automating software deployment. I specialize in creating scalable and reliable infrastructure, streamlining deployment processes, and implementing continuous integration and delivery pipelines.
 My expertise covers a wide range of Devops tools and technologies, including AWS Cloud, Docker, Kubernetes, Jenkins, Ansible, Terraform, and more. I love to experiment with the latest DevOps tools and methodologies, and I believe in the power of collaboration and community, and I'm always looking for new ways to optimize Software development workflows and utilize my knowledge and Skills.
 </p>
