@@ -26,6 +26,3 @@ My expertise covers a wide range of Devops tools and technologies, including AWS
 
 <br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=merajaprasad&show_icons=true&locale=en" alt="merajaprasad" /></p>
-<p><img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs?username=merajaprasad&show_icons=true&locale=en&layout=compact" alt="merajaprasad" /></p>
