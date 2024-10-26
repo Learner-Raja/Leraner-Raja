@@ -1,5 +1,6 @@
 <!-- <img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="100%" height="350"><br> -->
-<h2 align="left">Hello, I am Raja Prasad 👋</h2>
+
+<h2 align="left">hi there, i am Raja 👋</h2>
 <p align="left" > I'm a seasoned DevOps engineer from India with a passion for automating software deployment. I specialize in creating scalable and reliable infrastructure, streamlining deployment processes, and implementing continuous integration and delivery pipelines.
 My expertise covers a wide range of Devops tools and technologies, including AWS Cloud, Docker, Kubernetes, Jenkins, Ansible, Terraform, and more. I also love to experiment with the latest DevOps tools and methodologies. I believe in the power of collaboration and community, and I'm always looking for new ways to optimize Software development workflows and utilize my knowledge and Skills.
 </p>
@@ -16,9 +17,13 @@ My expertise covers a wide range of Devops tools and technologies, including AWS
 - CI-CD Automation
 
 ### ⚡OS Stack
-<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
+<p align="left">
+<img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> 
+</p>
 
-### ⚡Programming and Scripting Languages
+### ⚡Database and Scripting Languages
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/> </p>
 
 ### 🛠 Devops and Cloud Stack
