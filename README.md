@@ -7,9 +7,9 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ezm0fn0fag604ku15f2pmpqlndnabqi2nzvhersi&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ### ⚡Updates
-- I’m looking to collaborate for creating new **DevSecOps Projects**.
-- Ask me about **DevOps** and **CI-CD Automation**.
-- shoot me mail: **rajaprasad.rp731@gmail.com**.
+- 🔭 Currently collaborating on **DevSecOps Projects**.
+- 🤔 Ask me about **DevOps**, **CI/CD Automation**, and more.
+- 📬 Reach me at: [rajaprasad.rp731@gmail.com](mailto:rajaprasad.rp731@gmail.com)
 
 ### ⚡Domains
 - AWS Cloud Computing
@@ -23,7 +23,7 @@
 <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> 
 </p>
 
-### ⚡Database and Scripting Languages
+### ⚡Database and Scripting
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/> </p>
 
 ### 🛠 Devops and Cloud Stack
