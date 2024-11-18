@@ -1,6 +1,6 @@
 <!-- <img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="100%" height="350"><br> -->
 
-<h2 align="left">Hi there, I'm Raja 👋</h2>
+<h2 align="left" style="color: blue;">Hi there, I'm Raja 👋</h2>
 <p align="left" > I'm a DevOps engineer from 🌍India with a passion for automating software deployment. I specialize in creating scalable and reliable infrastructure, streamlining deployment processes, and implementing continuous integration and delivery pipelines. I believe in the power of collaboration and community, and I'm always looking for new ways to optimize Software development workflows and utilize my knowledge and Skills. </p>
 
 <hr />
