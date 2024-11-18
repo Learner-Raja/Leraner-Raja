@@ -8,7 +8,7 @@
 
 ### ⚡Updates
 - 💡 Currently collaborating on **DevSecOps Projects**.
-- 🤔 Ask me about **DevOps**, **CI/CD**, **Cloud**, **Kubernetes**, **Scripting** and more.
+- 🤔 Ask me about **CI/CD**, **Cloud**, **Kubernetes**, **Scripting** and more.
 - 📬 Reach me at: [rajaprasad.rp731@gmail.com](mailto:rajaprasad.rp731@gmail.com)
 
 ### ⚡Domains
