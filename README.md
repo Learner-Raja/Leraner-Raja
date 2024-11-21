@@ -1,6 +1,6 @@
 <!-- <img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="100%" height="350"><br> -->
 
-<h2 align="left" style="color: blue;">Hi there, I'm Raja 👋</h2>
+<h2 align="left" style="color: blue;">Hi there👋</h2>
 
  <h3><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=I'm+a+DevOps+Engineer+from+India🌍" /> </h3>
  
