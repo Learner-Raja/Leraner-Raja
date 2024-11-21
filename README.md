@@ -3,7 +3,13 @@
 <h2 align="left" style="color: blue;">Hi there👋</h2>
 
  <h3><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=I'm+a+DevOps+Engineer+from+India🌍" /> </h3>
- 
+
+<!--
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Certified+Solutions+Architect;AWS+Certified+Developer;Cloud+Innovation+Leader;Global+IT+Strategist;Continuous+Learner;Data+Science;Automation+Enthusiast&center=true&width=800&height=50">
+</p>
+-->
+
 <p align="left" >I specialize in creating scalable and reliable infrastructure, streamlining deployment processes, and implementing continuous integration and delivery pipelines. I believe in the power of collaboration and community, and I'm always looking for new ways to optimize Software development workflows and utilize my knowledge and Skills. </p>
 
 <hr />
